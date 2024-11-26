@@ -1,3 +1,5 @@
+# ARCH: yay -S mesa wayland egl-wayland rinstall
+
 [default]
 path = "/home/zero/pix/wal/"
 duration = "30m"

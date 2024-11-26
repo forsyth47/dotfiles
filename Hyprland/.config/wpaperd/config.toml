@@ -1,4 +1,4 @@
-# ARCH: yay -S mesa wayland egl-wayland rinstall
+# ARCH: yay -S mesa wayland egl-wayland rinstall && git clone https://github.com/danyspin97/wpaperd && cd wpaperd && cargo build --release && rinstall install --yes
 
 [default]
 path = "/home/zero/pix/wal/"

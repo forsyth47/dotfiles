@@ -1,0 +1,5 @@
+[default]
+path = "/home/zero/pix/wal/"
+duration = "30m"
+mode = "center"
+sorting = "random"

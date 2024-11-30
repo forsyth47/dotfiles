@@ -192,8 +192,8 @@
     },
     "material-icon-theme.saturation": 0,
     "vscode_custom_css.imports": [
-        "file:///home/zero/vscode-theme/custom-vscode.css",
-        "file:///home/zero/vscode-theme/vscode-script.js"
+        "file:///home/zero/codeCustom/vscode.css",
+        "file:///home/zero/codeCustom/vscode.js"
     ],
     "workbench.colorTheme": "React Theme",
     "workbench.iconTheme": "eq-material-theme-icons-light",
